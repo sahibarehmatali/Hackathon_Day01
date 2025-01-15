@@ -10,5 +10,5 @@ Defense Watch: Personal safety in emergencies.
 Auto Vehicle Brake System: Accident prevention with smart braking.
 Thumb-Based Ignition: Biometric-based keyless vehicle access.
 📊 With the IoT market booming, ANiot bridges the gap between advanced tech and everyday needs.
-hashtag#Amirah hashtag#NajafAli hashtag#Sahiba hashtag#Iqra
-hashtag#Hackathon hashtag#IoT hashtag#Innovation team: Iqra Rehmat Ali Najaf Ali Sahiba Rehmat Ali Khan hashtag#Amirah hashtag#NajafAli hashtag#Sahiba
+#Amirah #NajafAli #Sahiba #Iqra
+#Hackathon #IoT #Innovation team: Iqra Rehmat Ali Najaf Ali Sahiba Rehmat Ali Khan #Amirah #NajafAli #Sahiba
